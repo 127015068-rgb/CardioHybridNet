@@ -15,7 +15,7 @@ The implementation reproduces the methodology proposed in the IEEE Access paper 
 # 🏗️ Proposed System Architecture
 
 <p align="center">
-  <img src="assets/Heart_disease_architecture.png"
+  <img src="./assets/Heart_disease_architecture.png"
        alt="Heart Disease Prediction Architecture"
        width="100%">
 </p>
