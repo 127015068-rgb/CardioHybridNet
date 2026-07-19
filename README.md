@@ -14,7 +14,7 @@ The implementation reproduces the methodology proposed in the IEEE Access paper 
 
 # 🏗️ Proposed System Architecture
 
-![Heart Disease Architecture](./assets/Heart_disease_architecture.png)
+![Heart Disease Architecture](./assets/architecture.png)
 
 ### Workflow
 
